@@ -403,7 +403,10 @@
   .containerDiv2 img:hover{
     filter: blur(1px);
   }
-  
+  /* pagina FreuerCoffee */
+  .img-maps {
+    text-align: center;
+  }
   /* media querys  */
   @media screen and (max-width: 450px) {
     .containerSugerenciasTexto {
