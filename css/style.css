@@ -375,11 +375,7 @@
   .carousel-item img {
     transition: filter 0.3s;
   }
-  
-  .carousel-item:hover img {
-    filter: blur(3px);
-  }
-  
+
   .containerH2:hover {
     filter: brightness(85%);
   }
@@ -396,12 +392,6 @@
   }
   .containerPanes img:hover {
     filter: brightness(65%);
-  }
-  .containerDiv1 img:hover{
-    filter: blur(1px);
-  }
-  .containerDiv2 img:hover{
-    filter: blur(1px);
   }
   /* pagina FreuerCoffee */
   .img-maps {
